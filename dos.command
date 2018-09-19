@@ -1,20 +1,20 @@
-assoc     for change file type with particular extension
-copy      for copy
-del       for delete
-dir       for directory
-echo      for show message usually used to create txt filr
-edit      for create and modify txt files
-erase     for delete file/files
+assoc     to change file type with particular extension
+copy      to copy a file
+del       to delete any file
+dir       to see the directory
+echo      to show message usually used to create txt filr
+edit      to create and modify txt files
+erase     to delete file/files
 exit      to end the windows
 fc        to compare files
 ftp       to transfer files
-ipconfig  IP address
+ipconfig  to see the IP address
 mkdir     to create directories
 more      use for information
-move      rename or move file from one directory to another
-ping      verify IP level connectivity
+move      to rename or move file from one directory to another
+ping      to verify IP level connectivity
 rename    to change the name
-replace  to replace one or morefile to another
+replace   to replace one or morefile to another
 shutdown  to shutdown the computer
 taskkill  to terminate a running task
 tasklist  to show the list of applications, services and process
